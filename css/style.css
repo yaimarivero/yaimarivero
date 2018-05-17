@@ -1,4 +1,3 @@
-
 *{
 	margin: 0;
 	padding: 0;
@@ -6,8 +5,6 @@
 body{
 	width: 100%;
 	height: 100%;
-	background: #8056ff;
-	background-color: #8056ff;
 	background-image: url("https://picjumbo.com/wp-content/uploads/white-marble-stone-background-texture-pattern_free_stock_photos_picjumbo_marble_free_stock_photos_picjumbo_com-1570x1047.jpg");
 	background-attachment: fixed;
 	font-family: 'Raleway', sans-serif; 
@@ -38,25 +35,23 @@ body{
 
 
 .wrapper{
-	margin: 30px auto;
+	margin: px auto;
 	max-width: 100%;
 	height:100%;
-	background-color: #b9a0ff; 
+	position: center; 
 		border-style: solid;
 }
 
 .text1{
 	text-align: center; 
 	margin: 5% auto;
-	background-color: #bd7bed;
 	letter-spacing: 2px;
 
 }
 
 .container{ 
 	width: 80%:;
-	height: auto;
-	background-color: lightblue; 
+	height: auto; 
 	margin: 0 auto;
 	padding: 1em;
 } 
@@ -65,7 +60,6 @@ body{
 #red{
 	width: 50%;
 	margin: 10px auto;
-	background: #c292fc;
  	border-style: double;
  	padding: 10px 
 
@@ -80,7 +74,6 @@ body{
 #blue{
 	width: 50%;
 	margin: 10px auto;
-	background: #b366ff;
 	border-style: solid;
 	padding: 10px 
 }
@@ -93,7 +86,6 @@ body{
 #green{ 
 	width: 50%;
 	margin: 10px auto;
-	background: #9921fc;
 	border-style: dotted;
 	padding: 10px 
 
@@ -109,7 +101,6 @@ body{
 	text-align: center;
 	width: left;
 	margin: 100px auto;
-	background-color: #a857ff;
 		border-style: dotted;
 		letter-spacing: 10px; 
 }
@@ -118,18 +109,18 @@ body{
 	text-align: center;
 	width: left;
 	margin: 50px auto;
-	background-color: #d5b3f2;
 		border-style: dotted; 
 }
 
 .images{
 	margin: 50px auto;
-	background-color: #d587ff;
-	text-align: center;	
+	text-align: center;
+	position: center;	
+	background-image: url("https://picjumbo.com/wp-content/uploads/white-marble-stone-background-texture-pattern_free_stock_photos_picjumbo_marble_free_stock_photos_picjumbo_com-1570x1047.jpg"); 
 }
 
-
-
-
+.iframe{
+	text-align: center;
+}
 
 
